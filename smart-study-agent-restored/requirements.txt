@@ -1,0 +1,14 @@
+langgraph>=1,<2
+langgraph-checkpoint-sqlite>=3,<4
+langchain-openai>=1,<2
+langsmith>=0.4,<1
+streamlit>=1.45,<2
+pydantic>=2,<3
+python-dotenv>=1,<2
+openpyxl>=3,<4
+pypdf>=5,<7
+pypdfium2>=4,<6
+Pillow>=13,<14
+icalendar>=6,<8
+pytest>=8,<10
+tzdata

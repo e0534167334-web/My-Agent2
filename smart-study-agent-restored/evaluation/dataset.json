@@ -1,0 +1,5 @@
+[
+ {"text":"High priority algorithms exam on 2030-01-20 at 09:00, no preparation needed", "expected":{"type":"exam","reminders":3}},
+ {"text":"Meeting on 2030-01-20 at 09:00, no reminders", "expected":{"type":"meeting","reminders":0}},
+ {"text":"Project due 2030-01-20 at 09:00, normal priority", "expected":{"type":"project","reminders":1}}
+]
